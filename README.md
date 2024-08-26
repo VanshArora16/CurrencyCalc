@@ -12,7 +12,7 @@ This Currency Converter app is built using HTML, CSS, and JavaScript. It allows 
 ### Installation
 1. Clone the repository:
    
-   https://github.com/VanshArora16/CurrencyCalc.git
+  git clone https://github.com/VanshArora16/CurrencyCalc.git
    
 2. Navigate to the project directory:
 
